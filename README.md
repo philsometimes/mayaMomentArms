@@ -2,7 +2,7 @@
 
 Python shelf tools for calculating 3D moment arms from XROMM data. Inspired by (and borrows from) David Baier's [XROMM Maya Tools](https://bitbucket.org/xromm/xromm_mayatools/)
 
-##Installation
+## Installation
 
 - Close Maya
 - Place `shelf_PyMEL_momentarms_1_0.mel` in `...\maya\[versionYear]\prefs\shelves`
